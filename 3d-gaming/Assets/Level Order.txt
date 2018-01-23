@@ -1,0 +1,14 @@
+Level Order:
+
+Crash Landing
+Intro Hallway
+Intro Golf
+Konami
+Crazy Maze
+Golf Level 1
+Wipeout
+Egyptian Maze
+Golf Level 2
+Trippy Maze
+Elevator
+Bucket
